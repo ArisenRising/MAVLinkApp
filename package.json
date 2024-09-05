@@ -1,0 +1,1 @@
+{ "dependencies": { "node-mavlink": "^2.0.7", "serialport": "^12.0.0" } }
